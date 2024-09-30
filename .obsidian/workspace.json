@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "6b9ab4c3fa3e5d06",
+    "type": "split",
+    "children": [
+      {
+        "id": "0667e9ed8a949041",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "413b44cb109e5b40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RU/Алгосы/Бинпоиск.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "194cc76a9b8e6351",
+    "type": "split",
+    "children": [
+      {
+        "id": "83307b9b41e0ba35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b93df27c851af64",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "8ba314505ba7182e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "  ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e176711afdfdf2b5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ee8c7273e6343609",
+    "type": "split",
+    "children": [
+      {
+        "id": "c83487d75502a60e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "461d534847314127",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RU/Алгосы/Бинпоиск.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b85f32bccec1578",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RU/Алгосы/Бинпоиск.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1200abd97b7114fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ef04035fbe487e25",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RU/Алгосы/Бинпоиск.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "413b44cb109e5b40",
+  "lastOpenFiles": [
+    "RU/OOP/Абстрактные классы и интерфейсы.md",
+    "RU/Алгосы/Бинпоиск.md",
+    "RU/Алгосы",
+    "RU/OOP/Исключения.md",
+    "RU/OOP/Таблицы виртуальных функций.md",
+    "[1].md",
+    "RU/OOP/RTTI и разные типы cast-ов.md",
+    "RU/OOP/Полиморфизм😍.md",
+    "RU/OOP/Наследование.md",
+    "README.md",
+    "RU/OOP/pizdez.png",
+    "RU/OOP/vtable.png",
+    "RU/OOP/Заметки.md",
+    "RU/OOP/russian doll.png",
+    "2024-09-18.md",
+    "Untitled",
+    "EN/Basics/Literature.md",
+    "EN/Basics/Scopes.md",
+    "EN/Basics/Operators.md",
+    "EN/Basics/Just bits 'n bytes.md",
+    "EN/Basics/Expressions.md",
+    "EN/Basics/Declaration point.md",
+    "EN/Basics/Basic types.md",
+    "EN/Basics/Control structures.md",
+    "EN/Basics",
+    "EN",
+    "Новая папка",
+    "OOP/Полиморфизм😍.md",
+    "RU/OOP",
+    "RU",
+    "OOP/Наследование.md",
+    "Basics/Control structures.md",
+    "Basics/Scopes.md",
+    "OOP",
+    "Basics/Just bits 'n bytes.md",
+    "Basics/Operators.md",
+    "Basics/Expressions.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Basics"
+  ]
+}
